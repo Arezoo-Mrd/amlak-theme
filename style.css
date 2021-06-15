@@ -78,7 +78,7 @@ ul.dropdown-menu li>ul.dropdown-menu {
 
 .wrapper {
     position: absolute;
-    top: 20px;
+    top: -16px;
     left: 130px;
 }
 
